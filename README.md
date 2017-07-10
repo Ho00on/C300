@@ -1,2 +1,3 @@
 # C300
-초보자를 위한 c언어 300제
+C Language.
+300 problem
